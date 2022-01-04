@@ -1,2 +1,2 @@
 # springcloud-config
-test220103
+配置中心
