@@ -1,0 +1,2 @@
+config:
+    info: "main/config-prod.yml,version=1"
